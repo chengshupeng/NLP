@@ -1,5 +1,5 @@
 1	我们	我们	r	r	-	5	SBV	-	-	
-2	对	对	p	p	-	2	POB	-	- 	
+2	对	对	p	p	-	5	POB	-	- 	
 3	此	此	r	r	-	2	POB	-	-	
 4	不必	不必	d	d	-	5	ADV	-	-	
 5	作	作	v	v	-	0	HED	-	-	
