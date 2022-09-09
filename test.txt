@@ -43,17 +43,20 @@
 43	标志	标志	n	n	-	38	VOB	-	-	
 44	，	，	w	w	-	38	MT	-	-	
 
-1	第二	第二	m	m	-	2	ADV	-	-	
+1	第二	第二	m	m	-	2	SBV	-	-	
 2	是	是	v	v	-	0	HED	-	-	
 3	以	以	p	p	-	7	ADV	-	-	
 4	白云母	白云母	n	n	-	3	POB	-	-	
 5	和	和	c	c	-	6	MT	-	-	
 6	石榴石	石榴石	n	n	-	4	COO	-	-	
-7	为	为	v	v	-	2	COO	-	-	
+7	为	为	v	v	-	10	ATT	-	-	
 8	特征	特征	n	n	-	7	VOB	-	-	
-9	的	的	u	u	-	8	MT	-	-	
-10	卧都河	卧都河	LOC	LOC	-	2	VOB	-	-	
-11	、	、	w	w	-	10	MT	-	-	
-12	东清和香水园子岩体	东清和香水园子岩体	LOC	LOC	-	10	COO	-	-	
-13	，	，	w	w	-	2	MT	-	-	
+9	的	的	u	u	-	7	MT	-	-	
+10	卧都河	卧都河	LOC	LOC	-	15	ATT	-	-	
+11	、	、	w	w	-	10	MT	-	-
+12	东清	东清	LOC	LOC	-	10	COO	-	-
+13	和	和	c	c	-	14	MT	-	-	
+14	香水园子	香水园子	LOC	LOC	-	15	COO
+15	岩体	岩体	n	n	-	2	VOB	-	-	-	-	
+16	，	，	w	w	-	2	MT	-	-	
 
