@@ -131,9 +131,9 @@
 5	进一步	进一步	d	d	-	6	ADV	-	-	
 6	划分	划分	v	v	-	0	HED	-	-	
 7	为	为	v	v	-	6	VV	-	-	
-8	晚三叠一中侏罗世一	晚三叠一中侏罗世一	TIME	TIME	-	11	ATT	-	-	
+8	晚三叠一中侏罗世	晚三叠一中侏罗世	TIME	TIME	-	11	ATT	-	-	
 9	和	和	c	c	-	10	MT	-	-	
-10	早白坐一	早白坐一	TIME	TIME	-	11	COO	-	-	
+10	早白垩	早白垩	TIME	TIME	-	11	COO	-	-	
 11	两期	两期	m	m	-	6	VOB	-	-	
 12	，	，	w	w	-	11	MT	-	-	
 13	且	且	c	c	-	15	ADV	-	-	
