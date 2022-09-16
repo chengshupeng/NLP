@@ -209,3 +209,26 @@
 37	增生	增生	v	v	-	39	ATT	-	-	
 38	的	的	u	u	-	35	MT	-	-	
 39	原因	原因	n	n	-	27	VOB	-	-	
+
+
+1	我们	我们	r	r	-	3	SBV	-	-	
+2	已经	已经	d	d	-	3	ADV	-	-	
+3	提及	提及	v	v	-	0	HED	-	-	
+4	，	，	wp	wp	-	3	WP	-	-	
+5	三	三	m	m	-	6	ATT	-	-	
+6	种	种	q	q	-	7	ATT	-	-	
+7	条件	条件	n	n	-	8	SBV	-	-	
+8	利于	利于	v	v	-	3	VOB	-	-	
+9	岩石	岩石	n	n	-	11	ATT	-	-	
+10	的	的	u	u	-	9	RAD	-	-	
+11	熔融	熔融	v	v	-	8	VOB	-	-	
+12	而	而	c	c	-	13	ADV	-	-	
+13	形成	形成	v	v	-	8	COO	-	-	
+14	花岗岩浆	花岗岩浆	n	n	-	13	VOB	-	-	
+15	，	，	wp	wp	-	8	WP	-	-	
+16	即	即	v	v	-	8	COO	-	-	
+17	挥发份	挥发份	n	n	-	16	VOB	-	-	
+18	、	、	wp	wp	-	19	WP	-	-	
+19	降压	降压	v	v	-	17	COO	-	-	
+20	和	和	c	c	-	21	LAD	-	-	
+21	升温	升温	v	v	-	17	COO	-	-	
