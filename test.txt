@@ -274,3 +274,31 @@
 40	和	和	c	c	-	39	MT	-	-	
 41	香水园子	香水园子	LOC	LOC	-	37	COO
 42	岩体	岩体	n	n	-	29	VOB	-	-	-	-	
+
+1	在	在	p	p	-	8	ADV	-	-
+2	华北	华北	ns	ns	-	1	POB	-	-
+3	，	，	wp	wp	-	1	WP	-	-
+4	燕山	燕山	ns	ns	-	6	ATT	-	-
+5	早期	早期	nd	nd	-	6	ATT	-	-
+6	花岗岩	花岗岩	n	n	-	8	SBV	-	-
+7	主要	主要	d	d	-	8	ADV	-	-
+8	分布	分布	v	v	-	0	HED	-	-
+9	在	在	p	p	-	8	CMP	-	-
+10	胶辽半岛	胶辽半岛	j	j	-	9	POB	-	-
+11	，	，	wp	wp	-	8	WP	-	-
+12	其	其	r	r	-	13	ATT	-	-
+13	年代学	年代学	n	n	-	14	ATT	-	-
+14	变化	变化	n	n	-	15	ATT	-	-
+15	规律	规律	n	n	-	18	SBV	-	-
+16	与	与	p	p	-	18	ADV	-	-
+17	华北	华北	ns	ns	-	16	POB	-	-
+18	类似	类似	a	a	-	8	COO	-	-
+19	，	，	wp	wp	-	8	WP	-	-
+20	但	但	c	c	-	27	ADV	-	-
+21	燕山	燕山	ns	ns	-	23	ATT	-	-
+22	晚期	晚期	nt	nt	-	23	ATT	-	-
+23	花岗岩	花岗岩	n	n	-	27	SBV	-	-
+24	在	在	p	p	-	27	ADV	-	-
+25	全区	全区	n	n	-	24	POB	-	-
+26	均	均	d	d	-	27	ADV	-	-
+27	有	有	v	v	-	8	COO	-	-
