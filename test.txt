@@ -402,3 +402,23 @@
 25	燕山	燕山	LOC	LOC	-	26	ATT	-	-
 26	晚期	晚期	TIME	TIME	-	27	ATT	-	-
 27	花岗岩	花岗岩	n	n	-	24	VOB	-	-
+
+1	西藏	西藏	ns	ns	-	2	ATT	-	-	
+2	花岗岩	花岗岩	n	n	-	6	ATT	-	-	
+3	的	的	u	u	-	2	RAD	-	-	
+4	第二	第二	m	m	-	5	ATT	-	-	
+5	个	个	q	q	-	6	ATT	-	-	
+6	特色	特色	n	n	-	7	SBV	-	-	
+7	是	是	v	v	-	0	HED	-	-	
+8	所谓	所谓	v	v	-	11	ATT	-	-	
+9	的	的	u	u	-	8	RAD	-	-	
+10	高喜玛拉雅淡色	高喜玛拉雅淡色	ns	ns	-	11	ATT	-	-	
+11	花岗岩	花岗岩	n	n	-	7	VOB	-	-	
+12	，	，	wp	wp	-	7	WP	-	-	
+13	它	它	r	r	-	19	SBV	-	-	
+14	经常	经常	d	d	-	19	ADV	-	-	
+15	与	与	p	p	-	19	ADV	-	-	
+16	藏南	藏南	ns	ns	-	18	ATT	-	-	
+17	的	的	u	u	-	16	RAD	-	-	
+18	变质核杂岩	变质核杂岩	v	v	-	15	POB	-	-	
+19	相伴生	相伴生	d	d	-	7	COO	-	-	
