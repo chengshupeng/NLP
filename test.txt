@@ -553,3 +553,25 @@
 11	有效	有效	a	a	-	12	ATT	-	-
 12	标志	标志	n	n	-	7	VOB	-	-
 									
+1	另	另	r	r	-	2	ATT	-	-
+2	一个	一个	m	m	-	3	ATT	-	-
+3	有别于	有别于	v	v	-	8	SBV	-	-
+4	上述	上述	b	b	-	5	ATT	-	-
+5	成因	成因	n	n	-	3	VOB	-	-
+6	分类	分类	v	v	-	3	VOB	-	-
+7	的	的	u	u	-	3	RAD	-	-
+8	是	是	v	v	-	0	HED	-	-
+9	根据	根据	p	p	-	13	ADV	-	-
+10	花岗岩化学	花岗岩化学	n	n	-	11	ATT	-	-
+11	成分	成分	n	n	-	9	POB	-	-
+12	而	而	c	c	-	13	ADV	-	-
+13	确定	确定	v	v	-	22	ATT	-	-
+14	的	的	u	u	-	13	RAD	-	-
+15	准铝	准铝	n	n	-	22	ATT	-	-
+16	、	、	wp	wp	-	17	WP	-	-
+17	过铝	过铝	v	v	-	15	COO	-	-
+18	和	和	c	c	-	19	LAD	-	-
+19	过碱性	过碱性	n	n	-	15	COO	-	-
+20	的	的	u	u	-	15	RAD	-	-
+21	成分	成分	n	n	-	22	ATT	-	-
+22	分类	分类	v	v	-	8	VOB	-	-
