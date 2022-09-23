@@ -542,14 +542,14 @@
 
 1	而	而	c	c	-	7	ADV	-	-
 2	白云母	白云母	n	n	-	7	SBV	-	-
-3	和	和	c	c	-	4	LAD	-	-
+3	和	和	c	c	-	4	MT	-	-
 4	石榴石	石榴石	n	n	-	2	COO	-	-
 5	并	并	d	d	-	7	ADV	-	-
 6	不	不	d	d	-	7	ADV	-	-
 7	是	是	v	v	-	0	HED	-	-
-8	鉴定型	鉴定型	v	v	-	9	ATT	-	-
+8	鉴定型	鉴定型	n	n	-	9	ATT	-	-
 9	花岗岩	花岗岩	n	n	-	12	ATT	-	-
-10	的	的	u	u	-	9	RAD	-	-
+10	的	的	u	u	-	9	MT	-	-
 11	有效	有效	a	a	-	12	ATT	-	-
 12	标志	标志	n	n	-	7	VOB	-	-
 									
