@@ -515,3 +515,28 @@
 25	生长	生长	v	v	-	26	ATT	-	-
 26	情况	情况	n	n	-	22	VOB	-	-
 									
+1	由于	由于	c	c	-	15	ADV	-	-
+2	花岗岩	花岗岩	n	n	-	4	ATT	-	-
+3	的	的	u	u	-	2	RAD	-	-
+4	源岩	源岩	n	n	-	6	SBV	-	-
+5	主要	主要	d	d	-	6	ADV	-	-
+6	是	是	v	v	-	1	POB	-	-
+7	中基性	中基性	n	n	-	9	ATT	-	-
+8	的	的	u	u	-	7	RAD	-	-
+9	岩石	岩石	n	n	-	6	VOB	-	-
+10	，	，	wp	wp	-	1	WP	-	-
+11	它们	它们	r	r	-	15	SBV	-	-
+12	在	在	p	p	-	15	ADV	-	-
+13	熔融	熔融	v	v	-	14	ATT	-	-
+14	时	时	n	n	-	12	POB	-	-
+15	受	受	v	v	-	0	HED	-	-
+16	石榴石	石榴石	n	n	-	22	ATT	-	-
+17	、	、	wp	wp	-	18	WP	-	-
+18	角闪石	角闪石	n	n	-	16	COO	-	-
+19	和	和	c	c	-	20	LAD	-	-
+20	斜长石	斜长石	n	n	-	16	COO	-	-
+21	等	等	u	u	-	16	RAD	-	-
+22	矿物	矿物	n	n	-	24	ATT	-	-
+23	的	的	u	u	-	22	RAD	-	-
+24	制约	制约	v	v	-	15	VOB	-	-
+					
