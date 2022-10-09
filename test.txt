@@ -941,3 +941,18 @@
 50	大于	大于	v	v	-	44	COO	-	-
 51	100μm	100μm	m	m	-	51	VOB	-	-
 52	。	。	w	w	-	4	MT	-	-
+
+1	石英	石英	n	n	-	3	SBV	-	-	
+2	多	多	d	d	-	3	ADV	-	-	
+3	呈	呈	v	v	-	0	HED	-	-	
+4	微细粒	微细粒	n	n	-	3	VOB	-	-	
+5	，	，	wp	wp	-	3	WP	-	-	
+6	部分	部分	m	m	-	7	SBV	-	-	
+7	出现	出现	v	v	-	3	COO	-	-	
+8	定向	定向	d	d	-	9	ADV	-	-	
+9	变形	变形	v	v	-	7	COO	-	-	
+10	拉伸	拉伸	v	v	-	7	COO	-	-	
+11	为	为	v	v	-	7	COO	-	-	
+12	片状	片状	n	n	-	9	POB	-	-	
+13	、	、	wp	wp	-	12	WP	-	-	
+14	扁豆状	扁豆状	n	n	-	10	COO	-	-	
