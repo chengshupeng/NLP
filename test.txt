@@ -1100,10 +1100,9 @@
 25	组成	组成	v	v	-	26	SBV	-	-
 26	类似	类似	v	v	-	11	COO	-	-
 
-1	狼山	狼山	ns	ns	-	4	ATT	-	-
-2	－	－	wp	wp	-	3	WP	-	-
-3	白云鄂博	白云鄂博	ns	ns	-	1	COO	-	-
-4	区域	区域	n	n	-	7	ATT	-	-
-5	金多金属矿床	金多金属矿床	ns	ns	-	4	ATT	-	-
-6	的	的	u	u	-	5	RAD	-	-
-7	形成	形成	v	v	-	0	HED	-	-
+1	狼山－白云鄂博	狼山－白云鄂博	LOC	LOC	-	2	ATT	-	-
+2	区域	区域	n	n	-	4	ATT	-	-
+3	金多金属	金多金属	nz	nz	-	4	ATT	-	-
+4	矿床	矿床	n	n	-	6	ATT	-	-
+5	的	的	u	u	-	4	MT	-	-
+6	形成	形成	v	v	-	0	HED	-	-
