@@ -1130,3 +1130,18 @@
 22	重要	重要	a	a	-	23	ATT	-	-
 23	指示	指示	n	n	-	17	VOB	-	-
 24	。	。	w	w	-	17	WP	-	-
+
+1	黑龙潭	黑龙潭	ns	ns	-	2	ATT	-	-
+2	金矿	金矿	n	n	-	3	SBV	-	-
+3	位于	位于	v	v	-	0	HED	-	-
+4	鄂北	鄂北	j	j	-	5	ATT	-	-
+5	地区	地区	n	n	-	7	ATT	-	-
+6	新-黄剪切带	新-黄剪切带	a	a	-	5	ATT	-	-
+7	南侧	南侧	nd	nd	-	9	ATT	-	-
+8	的	的	u	u	-	7	RAD	-	-
+9	中-高压楔内	中-高压楔内	nd	nd	-	3	VOB	-	-
+10	，	，	wp	wp	-	3	WP	-	-
+11	并	并	c	c	-	12	ADV	-	-
+12	靠近	靠近	v	v	-	3	COO	-	-
+13	剪切带	剪切带	n	n	-	12	VOB	-	-
+14	。	。	wp	wp	-	3	WP	-	-
