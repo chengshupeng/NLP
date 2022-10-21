@@ -1196,3 +1196,19 @@
 37	等	等	u	u	-	36	MT	-	-
 38	。	。	w	w	-	8	MT	-	-
 
+1	黑龙潭	黑龙潭	ns	ns	-	2	ATT	-	-	
+2	-卸甲沟矿带脉石矿物	-卸甲沟矿带脉石矿物	wp	wp	-	3	WP	-	-	
+3	有	有	v	v	-	0	HED	-	-	
+4	石英	石英	n	n	-	3	VOB	-	-	
+5	、	、	wp	wp	-	6	WP	-	-	
+6	绢云母	绢云母	n	n	-	4	COO	-	-	
+7	、	、	wp	wp	-	8	WP	-	-	
+8	白云母	白云母	n	n	-	4	COO	-	-	
+9	、	、	wp	wp	-	10	WP	-	-	
+10	正长石	正长石	n	n	-	4	COO	-	-	
+11	、	、	wp	wp	-	10	WP	-	-	
+12	微斜长石	微斜长石	b	b	-	10	ATT	-	-	
+13	、	、	wp	wp	-	14	WP	-	-	
+14	钠长石	钠长石	n	n	-	4	COO	-	-	
+15	等	等	u	u	-	4	RAD	-	-	
+16	。	。	wp	wp	-	3	WP	-	-	
