@@ -1268,3 +1268,24 @@
 53	和	和	c	c	-	52	MT	-	-
 54	黄钾铁钒化	黄钾铁钒化	nz	nz	-	52	COO	-	-
 55	。	。	w	w	-	4	MT	-	-
+
+1	西部	西部	nd	nd	-	2	ATT	-	-
+2	武当地区	武当地区	ns	ns	-	4	SBV	-	-
+3	主要	主要	d	d	-	4	ADV	-	-
+4	形成	形成	v	v	-	0	HED	-	-
+5	于	于	p	p	-	4	CMP	-	-
+6	浅海盆地相中	浅海盆地相中	ns	ns	-	5	POB	-	-
+7	，	，	wp	wp	-	4	WP	-	-
+8	常	常	d	d	-	11	ADV	-	-
+9	与	与	p	p	-	11	ADV	-	-
+10	重晶石矿	重晶石矿	ns	ns	-	9	POB	-	-
+11	相伴	相伴	v	v	-	4	COO	-	-
+12	，	，	wp	wp	-	4	WP	-	-
+13	局部	局部	n	n	-	18	SBV	-	-
+14	（	（	wp	wp	-	15	WP	-	-
+15	竹山西部	竹山西部	ns	ns	-	13	COO	-	-
+16	）	）	wp	wp	-	13	WP	-	-
+17	尚	尚	d	d	-	18	ADV	-	-
+18	有	有	v	v	-	4	COO	-	-
+19	黄铁矿	黄铁矿	j	j	-	18	DBL	-	-
+20	产出	产出	v	v	-	18	VOB	-	-
